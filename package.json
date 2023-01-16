@@ -1,0 +1,11 @@
+{
+  "name": "curso-asincronismo-platzi",
+  "version": "1.0.0",
+  "description": "Proyecto en base a el curso (Manejo de Asincronismo) de platzi dictado por el profesor Oscar Barajas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan M. Garcia <jm2180810@gmail.com>",
+  "license": "MIT"
+}
