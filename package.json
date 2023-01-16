@@ -4,8 +4,12 @@
   "description": "Proyecto en base a el curso (Manejo de Asincronismo) de platzi dictado por el profesor Oscar Barajas.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callbacks/challenge.js"
   },
   "author": "Juan M. Garcia <jm2180810@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
