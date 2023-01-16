@@ -10,6 +10,7 @@
   "author": "Juan M. Garcia <jm2180810@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
